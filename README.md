@@ -1,6 +1,6 @@
 ---
 title: "Practical Machine Learning Project"
-author: "JacobIC"
+author: "Jacob Ider Chitham"
 date: "10/07/2017"
 output:
   pdf_document: default

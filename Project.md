@@ -1,5 +1,5 @@
 # Practical Machine Learning Project
-JacobIC  
+Jacob Ider Chitham  
 10/07/2017  
 
 
